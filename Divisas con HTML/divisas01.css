@@ -1,0 +1,25 @@
+/*Estilo a etiqueta directa de HTML*/
+header {
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 20px;
+}
+
+/*Estilo a nivel de clase*/
+.contenido{
+    margin: auto;
+    width: 40%;
+    border: 3px solid #1abc9c;
+    padding: 10px;
+}
+
+.resultado{
+    width: 100%;
+    height: 50px;
+    border: none;
+    text-align: right;
+    color: black;
+    font-size: 20px;
+    background-color: #b0ff98;
+}
